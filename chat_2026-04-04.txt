@@ -1,0 +1,16 @@
+[2026-04-04 11:06:30]
+User   : hello jarvis
+Jarvis : Hello, Preet! How can I help you today?
+--------------------------------------------------
+[2026-04-04 11:06:30]
+User   : what is python
+Jarvis : Python is a high-level, general-purpose programming language.
+--------------------------------------------------
+[2026-04-04 11:06:30]
+User   : tell me a joke
+Jarvis : Why do programmers prefer dark mode? Because light attracts bugs!
+--------------------------------------------------
+[2026-04-04 11:06:30]
+User   : wiki virat kohli
+Jarvis : Virat Kohli is an Indian international cricketer. He is a right-handed batter.
+--------------------------------------------------

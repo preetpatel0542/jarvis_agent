@@ -1,0 +1,4 @@
+time
+tell me about python
+joke
+exit
