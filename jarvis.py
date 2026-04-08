@@ -19,8 +19,8 @@ import random
 # ─────────────────────────────────────────
 #  CONFIGURATION
 # ─────────────────────────────────────────
-GEMINI_API_KEY = "AIzaSrgyCihhnYExvUyfhVa_AGbd7Ti_VfhWKxTv541Ns"   # Google Gemini
-WEATHER_API_KEY = "4bab14a309dtd412585fbadfut50a870bbd63c"  # Get from openweathermap.org
+GEMINI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"   # Google Gemini
+WEATHER_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # Get from openweathermap.org
 JARVIS_NAME = "Jarvis"
 USER_NAME = "preet patel"
 
