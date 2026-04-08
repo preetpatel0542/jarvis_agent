@@ -21,8 +21,8 @@ import random
 # ─────────────────────────────────────────
 GEMINI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"   # Google Gemini
 WEATHER_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # Get from openweathermap.org
-JARVIS_NAME = "Jarvis"
-USER_NAME = "preet patel"
+USER_NAME = "Sir"        # Change to your name
+JARVIS_NAME = "Jarvis"   # Change assistant name
 
 # ─────────────────────────────────────────
 #  VOICE ENGINE SETUP
